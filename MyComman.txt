@@ -1,0 +1,7 @@
+print("Atin Gupta")
+
+print("Hello Atin Gupta")
+
+print("Atin Gupta, Welcome")
+
+print("Atin Gupta")
